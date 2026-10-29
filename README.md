@@ -15,7 +15,7 @@
 
 ## Содержимое репозитория
 
-- `3_before (1).ipynb` — Jupyter-ноутбук с решением
+- `lab-03-linemodel-Gayfullina.ipynb` — Jupyter-ноутбук с решением
 - `README.md` — этот файл
 - `Boston_for_lab.csv` — набор данных 
 
